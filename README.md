@@ -7,7 +7,7 @@ Uma aplicação web (Carteira Digital) desenvolvida em java com JSP, PostgreSQL,
 - JSP
 - Maven
 - Tomcat 9
-- PostgreSQL 10+
+- PostgreSQL 10
 - Cliente JMS (ActiveMQ)
 
 
